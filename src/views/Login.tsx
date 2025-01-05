@@ -31,7 +31,7 @@ export default function Login() {
       }
 
       <button
-        className='bg-blue-950 text-white py-4 rounded-md border-2 border-white'
+        className='bg-red-950 text-white py-4 rounded-md border-2 border-white'
         onClick={changeStates}>Sign {msg} instead</button>
 
     </div>
